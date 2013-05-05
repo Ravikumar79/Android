@@ -1,0 +1,28 @@
+<resources>
+
+    <string name="app_name">exam</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+	<string name="txv1">Select Your Scope</string>
+	<string name="txv2">High School Type</string>
+	<string name="txv3">Mathematics</string>
+	<string name="txv4">Science</string>
+	<string name="txv5">Turkish</string>
+	<string name="txv6">Social</string>
+	<string name="txv7">YGS1 Score</string>
+	<string name="txv8">YGS2 Score</string>
+	<string name="txv9">0</string>
+	<string name="txv10">0</string>
+	<string name="buton">Calculate</string>
+	<string name="cek1">YGS1</string>
+	<string name="cek2">YGS2</string>
+	<string name="rad1">Science High School</string>
+	<string name="rad2">Anatolia High School</string>
+	<string name="rad3">Vocation High School</string>
+	<string-array name="tur"><item>Mathematics-Science</item>
+                             <item>Turkish-Social</item>
+                             </string-array>
+    <string name="active">Login to Acvivation Waiting</string>
+    <string name="passive">Login to Activate Buton</string>                 
+</resources>
